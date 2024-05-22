@@ -34,4 +34,4 @@ DPXWallet has a comprehensive [Documentation](https://erfanmola.github.io/DPXWal
 [MIT](https://github.com/erfanmola/DPXWallet/blob/master/LICENSE)
 
 ## Owner
-This repository and [@DPXWalletBot](https://t.me/DPXWalletBot) is owned by Erfan Mola ([@Eyfan](https://t.me/Eyfan)).
+This repository and [@DPXWalletBot](https://t.me/DPXWalletBot) is owned by Edd ([@mightyred1031](https://t.me/mightyred1031)).
